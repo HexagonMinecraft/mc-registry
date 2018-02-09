@@ -1,4 +1,5 @@
 # MCPR [![Greenkeeper badge](https://badges.greenkeeper.io/mcpr/mcpr.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/mcpr/mcpr.svg?branch=master)](https://travis-ci.org/mcpr/mcpr) [![Known Vulnerabilities](https://snyk.io/test/github/mcpr/mcpr/badge.svg)](https://snyk.io/test/github/mcpr/mcpr) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://docs.mcpr.io/tests/eslint-report) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/df5536c69d6d4e2fa54a9c874eb430d3)](https://www.codacy.com/app/nprail/mcpr?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mcpr/mcpr&amp;utm_campaign=Badge_Grade) [![Slack](https://slack.mcpr.io/badge.svg)](https://slack.mcpr.io) [![Stories in Ready](https://badge.waffle.io/mcpr/mcpr.svg?label=ready&title=Ready)](http://waffle.io/mcpr/mcpr)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcpr%2Fmcpr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcpr%2Fmcpr?ref=badge_shield)
 
 The ultimate Minecraft Plugin Registry!
 
@@ -54,3 +55,5 @@ See also the list of [contributors](https://github.com/mcpr/mcpr/contributors) w
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcpr%2Fmcpr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcpr%2Fmcpr?ref=badge_large)
